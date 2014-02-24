@@ -1,9 +1,9 @@
-(ns leiningen.new.mies
+(ns leiningen.new.mies-weasel
   (:require [leiningen.new.templates :refer [renderer name-to-path ->files]]))
 
-(def render (renderer "mies"))
+(def render (renderer "mies-weasel"))
 
-(defn mies [name]
+(defn mies-weasel [name]
   (let [data {:name name
               :sanitized (name-to-path name)}]
     (->files data

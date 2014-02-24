@@ -1,11 +1,11 @@
-# mies
+# mies-weasel
 
-A minimal ClojureScript template.
+A minimal ClojureScript template with Weasel REPL.
 
 ## Usage
 
 ```
-lein new mies hello-world
+lein new mies-weasel hello-world
 ```
 
 ## License
