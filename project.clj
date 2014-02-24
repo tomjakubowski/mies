@@ -1,4 +1,4 @@
-(defproject mies-weasel/lein-template "0.1.1-SNAPSHOT"
+(defproject mies-weasel/lein-template "0.1.1"
   :description
   "A minimal ClojureScript project template with Weasel REPL, forked from mies."
   :url "http://github.com/tomjakubowski/mies-weasel"
