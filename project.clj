@@ -6,5 +6,4 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :scm {:name "git"
         :url "https://github.com/tomjakubowski/mies-weasel"}
-  :lein-release {:deploy-via :clojars}
   :eval-in-leiningen true)
